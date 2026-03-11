@@ -87,3 +87,7 @@ Python 3.x
 Pandas, NumPy
 Matplotlib
 Scikit-learn
+
+This project is licensed under the MIT License.
+
+
